@@ -4,7 +4,6 @@
 ---
 
 
-```markdown
 # ⚽ PitchBook
 
 > **Connecting footballers with pitches — seamlessly.**
@@ -63,10 +62,6 @@ Both apps are built with **React Native Expo Router**, connected through a share
 
 ## 🧠 Architecture
 
-```
-
-````
-
 ---
 
 ## 🚀 Getting Started
@@ -122,6 +117,6 @@ This organization and its repositories may use different licenses depending on t
 
 ---
 
-*"Bringing football communities together — one pitch at a time."* ⚽
+*Bringing football communities together — one pitch at a time.* ⚽
 
 *Proudly registered under the Companies and Allied Matters Act, 2020 (Nigeria).* 🇳🇬
