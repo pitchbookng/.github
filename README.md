@@ -1,5 +1,5 @@
 ### 🏟️ **PitchBook Organization README**
-![PitchBook Logo](https://github.com/bluepeaktechnologies/bluepeaktechnologies/blob/main/assets/logo-white.PNG)
+![PitchBook Logo](https://raw.githubusercontent.com/pitchbookng/pitchbookng/refs/heads/main/assets/Secondary_Logo.png)
 
 ---
 
